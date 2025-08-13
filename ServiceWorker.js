@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-BioLeisureWebAR360-0.03-0.1";
 const contentToCache = [
-    "Build/BioLeisureWebAR360-0.03-ban_li.loader.js",
-    "Build/BioLeisureWebAR360-0.03-ban_li.framework.js",
-    "Build/BioLeisureWebAR360-0.03-ban_li.data",
-    "Build/BioLeisureWebAR360-0.03-ban_li.wasm",
+    "Build/01build.loader.js",
+    "Build/01build.framework.js",
+    "Build/01build.data",
+    "Build/01build.wasm",
     "TemplateData/style.css"
 
 ];
